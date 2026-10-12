@@ -674,5 +674,25 @@
         "createdAt": "2026-10-07",
         "lastUpdated": "2026-10-11",
         "popularity": 0
+    },
+    {
+        "name": "Blood and Salt: Siege",
+        "author": "Gage Bacon",
+        "workshopUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json",
+        "gameUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Game.json",
+        "imageUrl": "https://raw.githubusercontent.com/gagebacon/Blood-and-Salt-Siege_Public-Domain/82aed62ce97ce8b0a1585724b18be1425f719edb/Card%20Gallery/__Card%20Back_Mercenaries.png",
+        "tags": "tcg, 2-players, search-and-destroy, tactical shooter, destructible environments, character-centric, pick-and-ban, constructed",
+        "langs": [
+            "en"
+        ],
+        "useAiArts": false,
+        "screenshotUrls": [],
+        "updates": [
+            "First release!",
+            "Big update:\n- Constructed Format release\n- Pick-and-Ban Format release (still pending automated pregame draft setup)\n- Current cards added to database"
+        ],
+        "createdAt": "2026-10-12",
+        "lastUpdated": "2026-10-12",
+        "popularity": 0
     }
 ]
