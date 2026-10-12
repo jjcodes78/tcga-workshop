@@ -138,5 +138,9 @@
     {
         "name": "Union Arena",
         "workshopUrl": "https://valcur.github.io/TCG-Arena-UnionArena/workshop/workshop.json"
+    },
+    {
+        "name": "Blood and Salt: Siege",
+        "workshopUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json"
     }
 ]
